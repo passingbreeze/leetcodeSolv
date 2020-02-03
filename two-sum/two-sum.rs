@@ -1,3 +1,5 @@
+// 문제 URL : https://leetcode.com/problems/two-sum/
+
 // impl 키워드는 C++에서 class내에 Method선언부라고 보면 된다. -> implementation
 // leetcode에서 rust 답안 제출시 주어지는 template
 
