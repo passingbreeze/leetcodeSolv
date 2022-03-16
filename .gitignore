@@ -739,3 +739,10 @@ healthchecksdb
 MigrationBackup/
 
 # End of https://www.gitignore.io/api/c,c++,rust,java,linux,macos,python,kotlin,windows,intellij+all,visualstudio,visualstudiocode
+
+
+# Added by cargo
+
+/target
+/src
+Cargo.toml
